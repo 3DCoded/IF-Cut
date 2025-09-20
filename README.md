@@ -1,6 +1,10 @@
 # IF-Cut Configurations
 Simple inline universal filament cutter
 
+```bash
+if cut, then print
+```
+
 ## Installation
 
 1. Open the `mmu/base/` folder in your printer's configuration on Mainsail or Fluidd.
