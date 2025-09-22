@@ -5,6 +5,8 @@ Simple inline universal filament cutter
 if cut, then print
 ```
 
+Download on [Printables](https://www.printables.com/model/1417085-beta-if-cut-inline-filament-cutter-for-the-3ms)
+
 ## Installation
 
 1. Open the `mmu/base/` folder in your printer's configuration on Mainsail or Fluidd.
